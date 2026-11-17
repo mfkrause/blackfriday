@@ -1,0 +1,14 @@
+{
+  "name": "Consul",
+  "url": "https://getconsul.app/?ref=indiegoodies",
+  "description": "Mac menu bar app that converts files when you change their extension in Finder: images, video, audio and documents, all locally on your Mac",
+  "category": "utilities",
+  "platforms": ["mac"],
+  "deal": "26–34% off, no code: 1 Mac $14, 3 Macs $19. Optional lifetime updates +$19, sale only",
+  "pricing": "one-time",
+  "price": { "regular": 29, "sale": 19, "currency": "USD" },
+  "discount": 34,
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-27",
+  "icon": "https://getconsul.app/web-app-manifest-512x512.png"
+}
